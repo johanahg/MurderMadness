@@ -1,5 +1,5 @@
 # MurderMadness
-A basic MurderMadness game (similiar to cluedo) made for a class project.
+A basic MurderMadness game (similiar to cluedo) made for a class group project.
 
 Here's what our UI looks like!
 
