@@ -1,5 +1,5 @@
 # MurderMadness
-A basic MurderMadness game (similiar to cluedo) made for a class group project.
+A basic MurderMadness game (similiar to cluedo) extended from our first project which only produced text outputs. Collaboratively worked with Nina Wong (ninamichellewong10), Felix Nagel and Stuart Hood to complete this game for a class group project.
 
 Here's what our UI looks like!
 
